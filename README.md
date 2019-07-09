@@ -1,0 +1,3 @@
+"# backup_DB_Python" 
+
+SCRIPT DE BACKUP DE BASES DE DADOS MYSQL
